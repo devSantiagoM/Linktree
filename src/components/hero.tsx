@@ -75,7 +75,7 @@ export default function Hero() {
                             marqueeText="HTML/CSS ✦ React ✦ Next.js ✦ JavaScript ✦ Typescript ✦ Node.js ✦ Vite ✦ TailwindCSS ✦ Python ✦ PostgreSQL ✦ MySQL ✦ Git ✦"
                             speed={3}
                             curveAmount={0}
-                            direction="right"
+                            direction="left"
                             interactive={true}
                             className="custom-text-style"
                         />
