@@ -28,7 +28,7 @@ const links = [
         title: "LinkedIn",
         description: "Perfil profesional",
         icon: Linkedin,
-        url: "https://linkedin.com/in/tu-perfil",
+        url: "https://www.linkedin.com/in/santiago-mart%C3%ADnez-5496b8364/",
         color: "from-blue-500 to-blue-700",
     },
     {
