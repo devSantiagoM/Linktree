@@ -1,8 +1,19 @@
 # 🚀 Santiago Martinez - Personal LinkTree
 
+[![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-7.0.4-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1.11-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+
 Un portafolio personal moderno y elegante construido con React, TypeScript y TailwindCSS. Este proyecto presenta una página de enlaces estilo LinkTree con efectos visuales atractivos y una experiencia de usuario optimizada.
 
 ## ✨ Características
+
+[![Responsive](https://img.shields.io/badge/Responsive-Design-4A90E2?style=for-the-badge&logo=responsive)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+[![Performance](https://img.shields.io/badge/Performance-Optimized-00D4AA?style=for-the-badge&logo=speedtest)](https://web.dev/performance/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Typed-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Modern](https://img.shields.io/badge/Modern-Design-FF6B6B?style=for-the-badge&logo=design)](https://www.figma.com/)
 
 - **🎨 Diseño Moderno**: Interfaz elegante con gradientes y efectos visuales
 - **📱 Responsive**: Optimizado para todos los dispositivos
@@ -172,6 +183,10 @@ El proyecto está optimizado para:
 
 ## 🚀 Despliegue
 
+[![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel)](https://vercel.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deploy-222222?style=for-the-badge&logo=github)](https://pages.github.com/)
+
 ### Vercel (Recomendado)
 
 1. Conecta tu repositorio a Vercel
@@ -198,6 +213,10 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👨‍💻 Autor
 
 **Santiago Martinez**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF6B6B?style=for-the-badge&logo=globe)](https://santiagomartinez-developer.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-@devSantiagoM-181717?style=for-the-badge&logo=github)](https://github.com/devSantiagoM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago%20Martínez-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santiago-mart%C3%ADnez-5496b8364/)
 
 - Portfolio: [santiagomartinez-developer.vercel.app](https://santiagomartinez-developer.vercel.app/)
 - GitHub: [@devSantiagoM](https://github.com/devSantiagoM)
