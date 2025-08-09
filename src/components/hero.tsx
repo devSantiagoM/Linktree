@@ -72,7 +72,7 @@ export default function Hero() {
                     {/*  CurvedLoop aqui, fuera del contenido principal, con margen superior */}
                     <div className="w-full max-w-6xl px-6 mt-8 z-10 ">
                         <CurvedLoop
-                            marqueeText="HTML/CSS ✦ React ✦ Next.js ✦ JavaScript ✦ Typescript ✦ Node.js ✦ Vite ✦ TailwindCSS ✦ Python ✦ PostgreSQL ✦ MySQL ✦ Git ✦"
+                            marqueeText="HTML/CSS ✦ React ✦ Next.js ✦ JavaScript ✦ Typescript ✦ Node.js ✦ Vite ✦ TailwindCSS ✦ Python  ✦ MySQL ✦ Git ✦"
                             speed={3}
                             curveAmount={0}
                             direction="left"
